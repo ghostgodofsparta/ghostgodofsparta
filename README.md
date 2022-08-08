@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghostgodofsparta
-- 👀 I’m interested in ... becoming a pentester
+- 👀 I’m interested in ... becoming an offensive-penetration tester
 - 🌱 I’m currently learning basic pentesting from a book called the 'kali linux Penetration Testing Bible ' and this is my journey...
 
 
